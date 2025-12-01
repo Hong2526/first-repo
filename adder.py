@@ -1,6 +1,6 @@
-def add(a,b):
+def adder(a,b):
     return a + b
 
 
 if __name__ == '__main__':
-    print(add(3,7))
+    print(adder(3,7))
